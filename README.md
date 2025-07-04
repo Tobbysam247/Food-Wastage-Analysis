@@ -104,10 +104,12 @@ Before building the dashboards, I:
 ## Visuals
 
 ### Dashboard 1 – High-Level Overview  
-![Dashboard 1](Food_wastage Analysis - Akinwumi Oluwatobi 1.png)
+-![Food_wastage Analysis - Akinwumi Oluwatobi 1](https://github.com/user-attachments/assets/5f77a708-7f73-4a7d-a5a9-ace250ac3d03)
+
 
 ### Dashboard 2 – Deep Dive into Food Types and Waste Rates  
-![Dashboard 2](Food_wastage Analysis - Akinwumi Oluwatobi 2.png)
+-![Food_wastage Analysis - Akinwumi Oluwatobi 2](https://github.com/user-attachments/assets/60280f17-6ad5-4924-9972-ef27311a2632)
+
 
 ---
 
