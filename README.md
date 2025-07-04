@@ -37,8 +37,8 @@ Before building the dashboards, I:
 ## Key Insights & Visual Storytelling
 
 ### 1️ **Top Waste Contributors**
-- **Meat, Baked Goods, and Dairy Products** were the highest in volume of waste.
-- Interestingly, **Fruits and Baked Goods** had the highest **waste rates** (efficiency-wise).
+- Meat, Baked Goods, and Dairy Products were the highest in volume of waste.
+- Interestingly, Fruits and Baked Goods had the highest waste rates (efficiency-wise).
 
  *Insight:* Focus on optimizing procurement and portioning for these categories.
 
@@ -53,7 +53,7 @@ Before building the dashboards, I:
 ---
 
 ### 3️ **Preparation Method Matters**
-- **Sit-down dinners** led to the highest waste (24K), followed by **finger food** and **buffets**.
+- Sit-down dinners led to the highest waste (24K), followed by finger food and buffets.
 - Also had the highest waste rate across methods.
 
 *Insight:* Reassess portioning in plated meal formats.
@@ -68,21 +68,21 @@ Before building the dashboards, I:
 ---
 
 ### 5️ **Events & Geography**
-- **Corporate and Wedding Events** had the highest waste, especially in **urban and suburban** areas.
+- Corporate and Wedding Events had the highest waste, especially in urban and suburban areas.
 
 *Insight:* Improve forecasting and inventory planning for large-scale events.
 
 ---
 
 ### 6️ **Storage Conditions**
-- Over **63% of waste** came from items stored at **room temperature**.
+- Over 63% of waste came from items stored at room temperature.
 
 *Insight:* Improve refrigeration and food holding protocols to reduce spoilage.
 
 ---
 
 ### 7️ **Seasonality**
-- **Fruits peaked in waste during summer**, while **baked goods spiked in winter**.
+- Fruits peaked in waste during summer, while baked goods spiked in winter.
 
 *Insight:* Tailor menus based on seasonal demand and perishability.
 
@@ -104,24 +104,22 @@ Before building the dashboards, I:
 ## Visuals
 
 ### Dashboard 1 – High-Level Overview  
--![Food_wastage Analysis - Akinwumi Oluwatobi 1](https://github.com/user-attachments/assets/5f77a708-7f73-4a7d-a5a9-ace250ac3d03)
+![Food_wastage Analysis - Akinwumi Oluwatobi 1](https://github.com/user-attachments/assets/5f77a708-7f73-4a7d-a5a9-ace250ac3d03)
 
 
 ### Dashboard 2 – Deep Dive into Food Types and Waste Rates  
--![Food_wastage Analysis - Akinwumi Oluwatobi 2](https://github.com/user-attachments/assets/60280f17-6ad5-4924-9972-ef27311a2632)
+![Food_wastage Analysis - Akinwumi Oluwatobi 2](https://github.com/user-attachments/assets/60280f17-6ad5-4924-9972-ef27311a2632)
 
 
 ---
 
 ## Impact
 
-With these insights, **GraceyBee’s Restaurant** can expect to:
+With these insights, GraceyBee’s Restaurant can expect to:
 - Reduce food waste significantly,
 - Enhance profitability,
 - Strengthen sustainability efforts, and
 - Improve customer satisfaction through better-planned offerings.
-
----
 
 
 ----
